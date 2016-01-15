@@ -1,0 +1,13 @@
+name: IPBMC
+version: 1.0.0
+description: Minecraft to IPB Forum Bridge for Private Messaging
+author: killazombiecow
+
+main: me.imsean.ipbmc.IPBMC
+database: false
+depend: []
+
+commands:
+  pm:
+    description: PM A User
+    usage: /pm [username]
